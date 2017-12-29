@@ -13,4 +13,4 @@ The  CashRegister  class should perform the following:
 Implement both classes in a complete program. Feel free to modify the  InventoryItem  class in any way necessary.   
 Input Validation: Do not accept a negative value for the quantity of items being purchased.
 
-SIDE NOTE: This program was done on August 15, 2017, any feedback or recomedations are accepted.
+SIDE NOTE: This program was done on August 15, 2017, any feedback or recommedations are accepted.
